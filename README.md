@@ -16,10 +16,19 @@ Design pattern and Best practice programs help to learn the best coding practice
 - [Design Patterns](https://sourcemaking.com/design_patterns) - Design patterns can speed up the development process by providing tested, proven development paradigms. 
 
 
-## Features
+## Installation
 
-- [Import from git to IntelliJ IDEA]
+Java Sample coder requires the following to run.
+
+- [OpenJDK](https://openjdk.java.net/install/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [GIT](https://git-scm.com/downloads)
 - [Gradle](https://docs.gradle.org/current/userguide/installation.html)
+
+
+
+
+Install the dependencies and devDependencies and start the server.
 
 ## License
 
