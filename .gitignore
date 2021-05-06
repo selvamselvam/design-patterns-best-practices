@@ -3,7 +3,8 @@
 *.iws
 *.iml
 *.ipr
-/build/
+build/
+build*
 target/
 .settings/
 .mvn/
